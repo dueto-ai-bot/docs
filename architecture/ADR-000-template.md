@@ -1,8 +1,8 @@
 # ADR-000: [Título da Decisão]
 
-**Data:** YYYY-MM-DD  
-**Status:** Proposta | Aceita | Depreciada | Substituída por ADR-XXX  
-**Autores:** 
+**Data:** YYYY-MM-DD
+**Status:** Proposta | Aceita | Depreciada | Substituída por ADR-XXX
+**Autores:**
 
 ## Contexto
 
@@ -24,4 +24,3 @@ O que decidimos fazer?
 
 - **Opção A:** ...
 - **Opção B:** ...
-
